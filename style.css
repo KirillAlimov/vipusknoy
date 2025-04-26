@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: aqua;
+    padding:35px;
+}
+h1{
+    text-align:center;
+    color:khaki (189, 189, 249);
+}
+.gallery{
+    display:flex;
+    justify-content: space-between;
+}
+a:hover{
+    color: black;
+    transition: all 0.5s linear;
+}
+h1:hover{
+    color:yellowgreen;
+    transition: all 1s linear;
+}
+h4:hover{
+    color:rosybrown;
+    transition: all 1s linear;
+}
+li:hover{
+    color:mediumaquamarine;
+    transition: all 1s linear;
+}
